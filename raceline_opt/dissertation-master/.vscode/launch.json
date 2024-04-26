@@ -1,0 +1,32 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        // {
+        //     "name": "curvature",
+        //     "type": "debugpy",
+        //     "request": "launch",
+        //     "program": "python/main.py",
+        //     "console": "integratedTerminal",
+        //     "args": "--curvature --plot-all data/tracks/my_track.json data/vehicles/my_vehicle.json"
+        // },
+        {
+            "name": "compromise",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "python/main.py",
+            "console": "integratedTerminal",
+            "args": "--compromise --plot-all data/tracks/my_track.json data/vehicles/my_vehicle.json"
+        },
+        // {
+        //     "name": "laptime",
+        //     "type": "debugpy",
+        //     "request": "launch",
+        //     "program": "python/main.py",
+        //     "console": "integratedTerminal",
+        //     "args": "--laptime --plot-all data/tracks/my_track.json data/vehicles/my_vehicle.json"
+        // }
+    ]
+}

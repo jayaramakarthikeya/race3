@@ -1,0 +1,24 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/media/karthik/DATA/sem2/f1tenth/lab1_ws/install/safety_node/lib/python3.8/site-packages",
+        "/media/karthik/DATA/sem2/f1tenth/lab1_ws/install/pure_pursuit/lib/python3.8/site-packages",
+        "/media/karthik/DATA/sem2/f1tenth/lab1_ws/install/particle_filter/lib/python3.8/site-packages",
+        "/media/karthik/DATA/sem2/f1tenth/lab1_ws/install/mpc/lib/python3.8/site-packages",
+        "/media/karthik/DATA/sem2/f1tenth/lab1_ws/install/lab1_pkg/lib/python3.8/site-packages",
+        "/media/karthik/DATA/sem2/f1tenth/lab1_ws/install/koopman_f1tenth/lib/python3.8/site-packages",
+        "/media/karthik/DATA/sem2/f1tenth/lab1_ws/install/gap_follow/lib/python3.8/site-packages",
+        "/media/karthik/DATA/sem2/f1tenth/lab1_ws/install/f1tenth_gym_ros/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/media/karthik/DATA/sem2/f1tenth/lab1_ws/install/safety_node/lib/python3.8/site-packages",
+        "/media/karthik/DATA/sem2/f1tenth/lab1_ws/install/pure_pursuit/lib/python3.8/site-packages",
+        "/media/karthik/DATA/sem2/f1tenth/lab1_ws/install/particle_filter/lib/python3.8/site-packages",
+        "/media/karthik/DATA/sem2/f1tenth/lab1_ws/install/mpc/lib/python3.8/site-packages",
+        "/media/karthik/DATA/sem2/f1tenth/lab1_ws/install/lab1_pkg/lib/python3.8/site-packages",
+        "/media/karthik/DATA/sem2/f1tenth/lab1_ws/install/koopman_f1tenth/lib/python3.8/site-packages",
+        "/media/karthik/DATA/sem2/f1tenth/lab1_ws/install/gap_follow/lib/python3.8/site-packages",
+        "/media/karthik/DATA/sem2/f1tenth/lab1_ws/install/f1tenth_gym_ros/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages"
+    ]
+}

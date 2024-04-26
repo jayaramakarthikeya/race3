@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/foxy/include/**",
+        "/media/karthik/DATA/sem2/f1tenth/lab1_ws/src/koopman_f1tenth/include/**",
+        "/media/karthik/DATA/sem2/f1tenth/lab1_ws/src/lab1_pkg/include/**",
+        "/media/karthik/DATA/sem2/f1tenth/lab1_ws/src/race3/include/**",
+        "include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
